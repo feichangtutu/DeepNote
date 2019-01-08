@@ -1,0 +1,15 @@
+{
+  "name": "博立科技",
+  "short_name": "博立",
+  "display": "standalone",
+  "start_url": "/",
+  "icons":[
+    {
+      "src": "images/favicon.icon",
+      "sizes": "66*66",
+      "type": "image/x-icon"
+    }
+  ],
+  "background_color": "#123456",
+  "theme_color": "#2f3ba2"
+}
